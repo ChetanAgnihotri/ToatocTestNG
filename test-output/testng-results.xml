@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9643" started-at="2018-06-27T10:41:56Z" finished-at="2018-06-27T10:42:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9643" started-at="2018-06-27T10:41:56Z" finished-at="2018-06-27T10:42:05Z">
+      <class name="testngpom.TatocTest">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:testngpom.TatocTest@e320068]" name="launchBrowser" is-config="true" duration-ms="8566" started-at="2018-06-27T10:41:56Z" finished-at="2018-06-27T10:42:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="gridGateRed()[pri:0, instance:testngpom.TatocTest@e320068]" name="gridGateRed" duration-ms="244" started-at="2018-06-27T10:42:04Z" finished-at="2018-06-27T10:42:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gridGateRed -->
+        <test-method status="PASS" signature="gridGateGreen()[pri:1, instance:testngpom.TatocTest@e320068]" name="gridGateGreen" duration-ms="490" started-at="2018-06-27T10:42:05Z" finished-at="2018-06-27T10:42:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gridGateGreen -->
+        <test-method status="PASS" signature="differentBoxes()[pri:2, instance:testngpom.TatocTest@e320068]" name="differentBoxes" duration-ms="309" started-at="2018-06-27T10:42:05Z" finished-at="2018-06-27T10:42:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- differentBoxes -->
+      </class> <!-- testngpom.TatocTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
